@@ -1,4 +1,4 @@
-<img aling="right" alt="coding" width="500" src="coding.gif">
+<img src="coding.gif" alt="" align="right">
 <h1 align="center">Hi 👋, I'm BRAHIM EL HOUSS (BROSS)</h1>
 <h3 align="center">A passionate frontend developer from Morocco,a versatile aspiring Full Stack Software Engineer with a strong desire to succeed and make a meaningful contribution in the field. My education and skills equip me to confidently take on diverse challenges in software development with determination and expertise</h3>
 
