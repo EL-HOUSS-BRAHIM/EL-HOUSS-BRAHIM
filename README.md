@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm BRAHIM EL HOUSS (BROSS)</h1>
-<h3 align="center">A passionate frontend developer from MOROCCO,a versatile aspiring Full Stack Software Engineer with a strong desire to succeed and make a meaningful contribution in the field. My education and skills equip me to confidently take on diverse challenges in software development with determination and expertise</h3>
+<h3 align="center">A passionate frontend developer from Morocco,a versatile aspiring Full Stack Software Engineer with a strong desire to succeed and make a meaningful contribution in the field. My education and skills equip me to confidently take on diverse challenges in software development with determination and expertise</h3>
 <img aling="right" alt="coding" width="500" src="coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=el-houss-brahim&label=Profile%20views&color=0e75b6&style=flat" alt="el-houss-brahim" /> </p>
 
