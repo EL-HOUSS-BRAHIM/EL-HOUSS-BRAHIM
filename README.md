@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=el-houss-brahim&label=Profile%20views&color=0e75b6&style=flat" alt="el-houss-brahim" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=EL-HOUSS-BRAHIM&theme=gruvbox&row=1&column=5)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=EL-HOUSS-BRAHIM&theme=gruvbox&row=1&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left"> <a href="https://twitter.com/brahim_el_houss" target="blank"><img src="https://img.shields.io/twitter/follow/brahim_el_houss?logo=twitter&style=for-the-badge" alt="brahim_el_houss" /></a> </p>
 
