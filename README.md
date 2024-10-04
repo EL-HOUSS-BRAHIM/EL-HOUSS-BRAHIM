@@ -147,7 +147,7 @@
   <img src="https://github-profile-trophy.vercel.app?username=EL-HOUSS-BRAHIM&theme=dracula&margin-w=8&margin-h=8&no-bg=true&no-frame=true" height="150" alt="GitHub Trophy" />
   <img src="https://github-readme-stats.vercel.app/api?username=EL-HOUSS-BRAHIM&show_icons=true&theme=dracula&hide_border=true" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EL-HOUSS-BRAHIM&layout=compact&theme=dracula&hide_border=true" height="150" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=EL-HOUSS-BRAHIM&theme=dracula&hide_border=true" height="150" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=EL-HOUSS-BRAHIM&theme=dracula&hide_border=true" height="300" alt="GitHub Streak" />
 </div>
 
 <div align="center">
