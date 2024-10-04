@@ -8,11 +8,11 @@
 
 ###
 
-<h2 align="center">A passionate frontend developer from Morocco,a versatile aspiring Full Stack Software Engineer with a strong desire to succeed and make a meaningful contribution in the field. My education and skills equip me to confidently take on diverse challenges in software development with determination and expertise</h2>
+<img align="right" height="200" src="https://github.com/EL-HOUSS-BRAHIM/EL-HOUSS-BRAHIM/blob/main/coding.gif"  />
 
 ###
 
-<img align="right" height="200" src="https://github.com/EL-HOUSS-BRAHIM/EL-HOUSS-BRAHIM/blob/main/coding.gif"  />
+<p align="center">A passionate frontend developer from Morocco,a versatile aspiring Full Stack Software Engineer with a strong desire to succeed and make a meaningful contribution in the field. My education and skills equip me to confidently take on diverse challenges in software development with determination and expertise</p>
 
 ###
 
@@ -153,6 +153,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webflow/webflow-original.svg" height="40" alt="webflow logo"  />
 </div>
+
+###
+
+<h2 align="left">My Status:</h2>
 
 ###
 
