@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://github.com/EL-HOUSS-BRAHIM/EL-HOUSS-BRAHIM/blob/main/coding-1.gif"  />
+  <img height="200" width="400" src="https://github.com/EL-HOUSS-BRAHIM/EL-HOUSS-BRAHIM/blob/main/coding-1.gif" />
 </div>
 
 ###
@@ -8,7 +8,7 @@
 
 ###
 
-<img align="right" height="200" src="https://github.com/EL-HOUSS-BRAHIM/EL-HOUSS-BRAHIM/blob/main/coding.gif"  />
+<img align="right" height="200" width="400" src="https://github.com/EL-HOUSS-BRAHIM/EL-HOUSS-BRAHIM/blob/main/coding.gif"  />
 
 ###
 
