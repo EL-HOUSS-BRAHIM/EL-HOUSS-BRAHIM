@@ -144,15 +144,16 @@
 
 ## My Status:
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=EL-HOUSS-BRAHIM&theme=dracula&margin-w=8&margin-h=8&no-bg=true&no-frame=true" height="150" alt="GitHub Trophy" />
-  <img src="https://github-readme-stats.vercel.app/api?username=EL-HOUSS-BRAHIM&show_icons=true&theme=dracula&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EL-HOUSS-BRAHIM&layout=compact&theme=dracula&hide_border=true" height="150" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=EL-HOUSS-BRAHIM&theme=dracula&hide_border=true" height="300" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app?username=EL-HOUSS-BRAHIM&theme=dracula&margin-w=8&margin-h=8&no-bg=true&no-frame=true&cache_buster=${Math.random().toString(36).substring(2)}" height="150" alt="GitHub Trophy" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EL-HOUSS-BRAHIM&show_icons=true&theme=dracula&hide_border=true&cache_buster=${Math.random().toString(36).substring(2)}" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EL-HOUSS-BRAHIM&layout=compact&theme=dracula&hide_border=true&cache_buster=${Math.random().toString(36).substring(2)}" height="150" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=EL-HOUSS-BRAHIM&theme=dracula&hide_border=true&cache_buster=${Math.random().toString(36).substring(2)}" height="300" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EL-HOUSS-BRAHIM&theme=react-dark&area=true&hide_border=true" height="300" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EL-HOUSS-BRAHIM&theme=react-dark&area=true&hide_border=true&cache_buster=${Math.random().toString(36).substring(2)}" height="300" alt="GitHub Activity Graph" />
 </div>
+
 
 <img src="https://raw.githubusercontent.com/EL-HOUSS-BRAHIM/EL-HOUSS-BRAHIM/output/snake.svg" alt="Snake Animation" />
 
