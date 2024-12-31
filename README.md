@@ -175,7 +175,7 @@
   <a href="https://www.facebook.com/brahim.el.102977">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo" />
   </a>
-  <a href="https://www.instagram.com/brahimel205_/">
+  <a href="https://www.instagram.com/brahimel.205/">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
   </a>
   <a href="https://www.youtube.com/@BRAHIMELHOUSS">
