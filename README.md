@@ -5,7 +5,7 @@
 <h1 align="left">Hi 👋, I'm BRAHIM EL HOUSS (BROSS)</h1>
 
 <p align="center">
-  A passionate frontend developer from Morocco, a versatile aspiring Full Stack Software Engineer with a strong desire to succeed 
+  A passionate Back-end/Front-end developer from Morocco, a versatile aspiring Full Stack Software Engineer with a strong desire to succeed 
   and make a meaningful contribution. My education and skills equip me to confidently take on diverse challenges in software development.
 </p>
 
