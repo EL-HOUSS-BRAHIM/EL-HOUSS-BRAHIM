@@ -144,19 +144,14 @@
 
 ## My Status:
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=EL-HOUSS-BRAHIM&theme=dracula&margin-w=8&margin-h=8&no-bg=true&no-frame=true&v=1" height="150" alt="GitHub Trophy" />
-  <img src="https://github-readme-stats.vercel.app/api?username=EL-HOUSS-BRAHIM&show_icons=true&theme=dracula&hide_border=true&v=1" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EL-HOUSS-BRAHIM&layout=compact&theme=dracula&hide_border=true&v=1" height="150" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=EL-HOUSS-BRAHIM&theme=dracula&hide_border=true&v=1" height="300" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app?username=EL-HOUSS-BRAHIM&theme=monokai&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=EL-HOUSS-BRAHIM&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=shades-of-purple&locale=en&hide_border=true&order=1&custom_title=EL-HOUSS%20BRAHIM%20GitHub%20Status" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EL-HOUSS-BRAHIM&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=shades-of-purple&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=EL-HOUSS-BRAHIM&locale=en&mode=daily&theme=shades-of-purple&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EL-HOUSS-BRAHIM&radius=16&theme=material-palenight&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EL-HOUSS-BRAHIM&theme=react-dark&area=true&hide_border=true&v=1" height="300" alt="GitHub Activity Graph" />
-</div>
-
-
-
-<img src="https://raw.githubusercontent.com/EL-HOUSS-BRAHIM/EL-HOUSS-BRAHIM/output/snake.svg" alt="Snake Animation" />
+<img src="https://raw.githubusercontent.com/EL-HOUSS-BRAHIM/EL-HOUSS-BRAHIM/output/snake.svg" alt="Snake animation" />
 
 ## Connect with Me:
 <div align="center">
