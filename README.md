@@ -15,7 +15,6 @@
 
 ## My Stack and Tools:
 <br clear="both">
-
 <div align="left">
   <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
   <img width="12" />
