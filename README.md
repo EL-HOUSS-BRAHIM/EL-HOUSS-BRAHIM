@@ -8,6 +8,9 @@
   A passionate Back-end/Front-end developer from Morocco, a versatile aspiring Full Stack Software Engineer with a strong desire to succeed 
   and make a meaningful contribution. My education and skills equip me to confidently take on diverse challenges in software development.
 </p>
+<p align="center">
+  currently I'm building watch party platform second version 😁😁😎.
+</p>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/EL-HOUSS-BRAHIM/count.svg?" alt="Visitor Counter" />
