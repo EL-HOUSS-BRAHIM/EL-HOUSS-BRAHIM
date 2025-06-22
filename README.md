@@ -10,7 +10,7 @@
 </p>
 <p align="center">
   currently I'm building watch party platform second version 😁😁😎.
-also building quick chat website 🙂.
+also building quick chat website V2 😭😭.
 </p>
 
 <div align="center">
