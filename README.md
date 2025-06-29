@@ -11,6 +11,7 @@
 <p align="center">
   currently I'm building watch party platform second version 😁😁😎.
 also building quick chat website V2 😭😭.
+also at the same time building a SaaS for a mailbox using AWS SES + S3 + LAMBDA function 🙂.
 </p>
 
 <div align="center">
