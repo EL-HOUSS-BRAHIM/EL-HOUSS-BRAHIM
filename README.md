@@ -150,10 +150,10 @@ const brahim = {
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
-| 🎬 **Watch Party V2** | Real-time video synchronization platform with chat | React, WebRTC, WebSocket, Node.js | [Demo](#) • [Code](#) |
-| 💬 **Quick Chat V2** | Lightning-fast messaging app with end-to-end encryption | Next.js, Socket.io, Redis, MongoDB | [Demo](#) • [Code](#) |
-| 📧 **SaaS Mailbox** | Serverless email management solution | AWS Lambda, SES, S3, DynamoDB | [Demo](#) • [Code](#) |
-| 🔐 **Auth Microservice** | Scalable authentication service with OAuth2 | NestJS, PostgreSQL, Redis, Docker | [Demo](#) • [Code](#) |
+| 🎬 **Watch Party V2** | Real-time video synchronization platform with chat | React, WebRTC, WebSocket, Node.js | [Code](https://github.com/EL-HOUSS-BRAHIM/watch-party) |
+| 💬 **Quick Chat** | Lightning-fast messaging app with WebSocket | Next.js, Socket.io, Redis, MongoDB | [Code](https://github.com/EL-HOUSS-BRAHIM/quick_chat) |
+| 💰 **Budgetify** | Personal expense tracking application | Python, Flask, SQLite | [Code](https://github.com/EL-HOUSS-BRAHIM/Budgetify) |
+| 🔐 **SecureChat** | End-to-end encrypted messaging platform | JavaScript, WebRTC, Node.js | [Code](https://github.com/EL-HOUSS-BRAHIM/SecureChat) |
 
 </div>
 
