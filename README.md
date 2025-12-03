@@ -14,10 +14,6 @@
   <a href="https://t.me/BROSSEL205"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/EL-HOUSS-BRAHIM/count.svg?" alt="Visitor Counter" />
-</div>
-
 ---
 
 ## 👨‍💻 About Me
@@ -134,11 +130,6 @@ const brahim = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EL-HOUSS-BRAHIM&show_icons=true&count_private=true&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EL-HOUSS-BRAHIM&layout=compact&hide_border=true&title_color=3B82F6&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages" height="170"/>
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=EL-HOUSS-BRAHIM&theme=dark&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak" />
 </div>
 
@@ -165,8 +156,6 @@ const brahim = {
 | 🔐 **Auth Microservice** | Scalable authentication service with OAuth2 | NestJS, PostgreSQL, Redis, Docker | [Demo](#) • [Code](#) |
 
 </div>
-
-> 💡 **Note:** Replace the `#` links above with your actual project repositories and live demos to maximize impact!
 
 ---
 
@@ -205,7 +194,7 @@ software_engineer:
 - 🌱 Learning advanced Kubernetes orchestration
 - 👯 Looking to collaborate on open-source projects
 - 💬 Ask me about **JavaScript, Python, Cloud Architecture, DevOps**
-- 📫 Reach me at: **[Your Email Here]**
+- 📫 Reach me at: **brahim.elhouss2@gmail.com**
 - ⚡ Fun fact: I debug with console.log() and I'm not ashamed! 😄
 <!--END_SECTION:activity-->
 
@@ -220,7 +209,7 @@ software_engineer:
 [![Telegram](https://img.shields.io/badge/Telegram-Chat-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/BROSSEL205)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@BRAHIMELHOUSS)
 
-### 📧 Email: `your.email@example.com`
+### 📧 Email: `brahim.elhouss2@gmail.com`
 
 </div>
 
