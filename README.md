@@ -37,7 +37,7 @@ const brahim = {
 
 ### 🎯 Current Projects
 
-- 🎬 **Watch Party Platform V2** - Real-time synchronized video streaming platform with WebRTC
+- 🎬 **Watch Party Platform** - Real-time synchronized video streaming platform with WebRTC
 - 💬 **Quick Chat V2** - High-performance real-time messaging application with WebSocket
 - 📧 **SaaS Mailbox Solution** - Serverless email management system using AWS (SES + S3 + Lambda)
 - 🔧 Building microservices architecture with Docker & Kubernetes
