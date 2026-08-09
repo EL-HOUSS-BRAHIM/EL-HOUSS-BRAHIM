@@ -1,10 +1,12 @@
-<div align="center">
-  <img height="200" src="https://github.com/EL-HOUSS-BRAHIM/EL-HOUSS-BRAHIM/blob/main/coding-1.gif" alt="Coding Animation" />
-</div>
+<h1 align="center">Brahim El Houss</h1>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+BRAHIM+EL+HOUSS+(BROSS);Full+Stack+Software+Engineer;Cloud+%26+DevOps+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
-</h1>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=Full-Stack+Software+Engineer;Cloud+%26+DevOps+Enthusiast;Building+Reliable%2C+Scalable+Systems" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=0369A1&center=true&vCenter=true&width=620&lines=Full-Stack+Software+Engineer;Cloud+%26+DevOps+Enthusiast;Building+Reliable%2C+Scalable+Systems" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=0369A1&center=true&vCenter=true&width=620&lines=Full-Stack+Software+Engineer;Cloud+%26+DevOps+Enthusiast;Building+Reliable%2C+Scalable+Systems" alt="Full-Stack Software Engineer focused on cloud, DevOps, and scalable systems" />
+  </picture>
+</div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/brahim-el-houss"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -23,8 +25,11 @@ const brahim = {
     location: "Morocco 🇲🇦",
     role: "Full Stack Software Engineer",
     code: ["JavaScript", "TypeScript", "Python", "PHP", "C"],
+    cloud: ["AWS", "Azure", "GCP", "Oracle Cloud (OCI)", "DigitalOcean"],
+    platforms: ["Vercel", "Render"],
+    email: ["Resend"],
     architecture: ["Microservices", "Event-Driven", "Serverless", "MVC"],
-    currentFocus: "Building scalable cloud-native applications",
+    currentFocus: "Deepening my cloud, DevOps, and database expertise",
     communities: {
         organizer: "Tech Meetups Morocco",
         mentor: "Open Source Contributors"
@@ -34,13 +39,6 @@ const brahim = {
 ```
 
 🚀 **Passionate full-stack developer** from Morocco with expertise in building scalable web applications and cloud infrastructure. I specialize in modern web technologies and cloud-native solutions, with a proven track record of delivering high-quality software.
-
-### 🎯 Current Projects
-
-- 🎬 **Watch Party Platform** - Real-time synchronized video streaming platform with WebRTC
-- 💬 **Quick Chat V2** - High-performance real-time messaging application with WebSocket
-- 📧 **SaaS Mailbox Solution** - Serverless email management system using AWS (SES + S3 + Lambda)
-- 🔧 Building microservices architecture with Docker & Kubernetes
 
 ### 🏆 Highlights
 
@@ -71,7 +69,6 @@ const brahim = {
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/>
-  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white" alt="Nuxt.js"/>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
@@ -103,12 +100,21 @@ const brahim = {
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
   <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/>
+  <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud (OCI)"/>
+  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" alt="Render"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
   <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
+</div>
+
+### ✉️ Email Services
+<div align="left">
+  <img src="https://img.shields.io/badge/Resend-000000?style=for-the-badge&logo=resend&logoColor=white" alt="Resend"/>
 </div>
 
 ### 🧰 Tools & Others
@@ -139,22 +145,7 @@ const brahim = {
 
 ### 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EL-HOUSS-BRAHIM&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack | Links |
-|---------|-------------|------------|-------|
-| 🎬 **Watch Party V2** | Real-time video synchronization platform with chat | React, WebRTC, WebSocket, Node.js | [Code](https://github.com/EL-HOUSS-BRAHIM/watch-party) |
-| 💬 **Quick Chat** | Lightning-fast messaging app with WebSocket | Next.js, Socket.io, Redis, MongoDB | [Code](https://github.com/EL-HOUSS-BRAHIM/quick_chat) |
-| 💰 **Budgetify** | Personal expense tracking application | Python, Flask, SQLite | [Code](https://github.com/EL-HOUSS-BRAHIM/Budgetify) |
-| 🔐 **SecureChat** | End-to-end encrypted messaging platform | JavaScript, WebRTC, Node.js | [Code](https://github.com/EL-HOUSS-BRAHIM/SecureChat) |
-
+  <img src="https://github-trophies.devomb.com/?username=EL-HOUSS-BRAHIM&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -167,7 +158,7 @@ software_engineer:
   specializations:
     - Building scalable web applications
     - Microservices architecture
-    - Cloud-native solutions (AWS, Azure, GCP)
+    - Cloud-native solutions (AWS, Azure, GCP, Oracle Cloud)
     - CI/CD pipeline automation
     - Database optimization & design
   
@@ -190,7 +181,6 @@ software_engineer:
 ## 📈 Activity Snapshot
 
 <!--START_SECTION:activity-->
-- 🔨 Currently working on multiple full-stack projects
 - 🌱 Learning advanced Kubernetes orchestration
 - 👯 Looking to collaborate on open-source projects
 - 💬 Ask me about **JavaScript, Python, Cloud Architecture, DevOps**
